@@ -48,5 +48,4 @@ def play():
         
         turn+=1
 
-play()        
-input()
+play()
